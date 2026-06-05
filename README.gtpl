@@ -9,18 +9,18 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 [`💼 linkedin.com/in/francesco-la-ruffa`](https://www.linkedin.com/in/francesco-la-ruffa/)
 
 ### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{ range recentContributions 3 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description | abbrev 80 }}
 {{- end }}
 
 ### 🌱 My latest projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{ range recentRepos 3 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description | abbrev 80 }}
 {{- end }}
 
 ### ⭐ Recent Stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{ range recentStars 3 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description | abbrev 80 }}
 {{- end }}
 
 {{/*
