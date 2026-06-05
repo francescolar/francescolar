@@ -10,17 +10,17 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 3 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ printf "%.80s" .Repo.Description }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ if gt (len .Repo.Description) 80 }}{{ printf "%.80s" .Repo.Description }}...{{ else }}{{ .Repo.Description }}{{ end }}
 {{- end }}
 
 ### 🌱 My latest projects
 {{ range recentRepos 3 }}
-- [{{ .Name }}]({{ .URL }}) - {{ printf "%.80s" .Description }}
+- [{{ .Name }}]({{ .URL }}) - {{ if gt (len .Description) 80 }}{{ printf "%.80s" .Description }}...{{ else }}{{ .Description }}{{ end }}
 {{- end }}
 
 ### ⭐ Recent Stars
 {{ range recentStars 3 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ printf "%.80s" .Repo.Description }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ if gt (len .Repo.Description) 80 }}{{ printf "%.80s" .Repo.Description }}...{{ else }}{{ .Repo.Description }}{{ end }}
 {{- end }}
 
 {{/*
