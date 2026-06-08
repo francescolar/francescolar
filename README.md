@@ -10,9 +10,9 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### 👷 Check out what I'm currently working on
 
-- [francescolar/tp-govee-lan-plugin](https://github.com/francescolar/tp-govee-lan-plugin) - Plugin for Touch Portal to interact with Govee devices through LAN
 - [francescolar/francescolar.github.io](https://github.com/francescolar/francescolar.github.io) - 
-- [francescolar/govee-lan-sdk](https://github.com/francescolar/govee-lan-sdk) - SDK to work with lan Govee devices
+- [francescolar/appleteer](https://github.com/francescolar/appleteer) - A self-hosted, Docker-based automation platform. Define applets with webhook tri...
+- [francescolar/tp-govee-lan-plugin](https://github.com/francescolar/tp-govee-lan-plugin) - Plugin for Touch Portal to interact with Govee devices through LAN
 
 ### 🌱 My latest projects
 
@@ -22,8 +22,8 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### ⭐ Recent Stars
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and...
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr...
 - [djlastnight/KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox) - Creates up to 4 virtual xbox 360 controllers and feeds them via one or more keyb...
-- [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
 
 
