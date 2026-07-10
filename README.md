@@ -22,8 +22,8 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### ⭐ Recent Stars
 
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and...
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr...
-- [djlastnight/KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox) - Creates up to 4 virtual xbox 360 controllers and feeds them via one or more keyb...
 
 
