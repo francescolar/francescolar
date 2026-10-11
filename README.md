@@ -10,15 +10,15 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### 👷 Check out what I'm currently working on
 
+- [francescolar/bologna-parcheggio-residenti](https://github.com/francescolar/bologna-parcheggio-residenti) - App per verificare se una determinata via / strada / etc risulta nella stessa zo...
 - [francescolar/tiebreak-save-editor](https://github.com/francescolar/tiebreak-save-editor) - Save editor for Tiebreak - Grand Slam Edition Careers
 - [francescolar/francescolar.github.io](https://github.com/francescolar/francescolar.github.io) - 
-- [francescolar/appleteer](https://github.com/francescolar/appleteer) - A self-hosted, Docker-based automation platform. Define applets with webhook tri...
 
 ### 🌱 My latest projects
 
+- [francescolar/bologna-parcheggio-residenti](https://github.com/francescolar/bologna-parcheggio-residenti) - App per verificare se una determinata via / strada / etc risulta nella stessa zo...
 - [francescolar/tiebreak-save-editor](https://github.com/francescolar/tiebreak-save-editor) - Save editor for Tiebreak - Grand Slam Edition Careers
 - [francescolar/tp-govee-lan-plugin](https://github.com/francescolar/tp-govee-lan-plugin) - Plugin for Touch Portal to interact with Govee devices through LAN
-- [francescolar/govee-lan-sdk](https://github.com/francescolar/govee-lan-sdk) - SDK to work with lan Govee devices
 
 ### ⭐ Recent Stars
 
