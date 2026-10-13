@@ -22,8 +22,8 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### ⭐ Recent Stars
 
+- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [prgmitchell/MIDIMaster](https://github.com/prgmitchell/MIDIMaster) - 
 - [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Set up your Stremio/Nuvio account with just a few clicks
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 
 
