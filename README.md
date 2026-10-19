@@ -5,7 +5,7 @@
 I'm a software developer based in Bologna, Italy. I like building things that actually work: from real-time multiplayer games to low-level Java libraries. I work mostly with PHP, Java, TypeScript and Vue.js, with a growing interest in DevOps and AI integration.
 
 [`🌐 francescolaruffa.dev`](https://francescolaruffa.dev)
-[`📫 francesco@laruffa.dev`](mailto:francesco@laruffa.dev)
+[`📫 laruffafrancesco1@gmail.com`](mailto:laruffafrancesco1@gmail.com)
 [`💼 linkedin.com/in/francesco-la-ruffa`](https://www.linkedin.com/in/francesco-la-ruffa/)
 
 ### 👷 Check out what I'm currently working on
@@ -22,8 +22,8 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### ⭐ Recent Stars
 
+- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [prgmitchell/MIDIMaster](https://github.com/prgmitchell/MIDIMaster) - 
-- [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Set up your Stremio/Nuvio account with just a few clicks
 
 
