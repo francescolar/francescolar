@@ -10,9 +10,9 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### 👷 Check out what I'm currently working on
 
+- [francescolar/appleteer](https://github.com/francescolar/appleteer) - A self-hosted, Docker-based automation platform. Define applets with webhook tri...
 - [francescolar/bologna-parcheggio-residenti](https://github.com/francescolar/bologna-parcheggio-residenti) - App per verificare se una determinata via / strada / etc risulta nella stessa zo...
 - [francescolar/tiebreak-save-editor](https://github.com/francescolar/tiebreak-save-editor) - Save editor for Tiebreak - Grand Slam Edition Careers
-- [francescolar/francescolar.github.io](https://github.com/francescolar/francescolar.github.io) - 
 
 ### 🌱 My latest projects
 
