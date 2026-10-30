@@ -22,8 +22,8 @@ I'm a software developer based in Bologna, Italy. I like building things that ac
 
 ### ⭐ Recent Stars
 
+- [bagleyspot/cancellamy-backend](https://github.com/bagleyspot/cancellamy-backend) - Free, open-source (AGPL-3.0) GDPR data-removal service for Italy: sends erasure ...
+- [bagleyspot/cancellamy-frontend](https://github.com/bagleyspot/cancellamy-frontend) - Web app for Cancellamy, a free open-source GDPR data-removal service for Italy. ...
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
-- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
-- [prgmitchell/MIDIMaster](https://github.com/prgmitchell/MIDIMaster) - 
 
 
